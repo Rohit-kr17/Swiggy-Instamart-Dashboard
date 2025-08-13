@@ -88,6 +88,4 @@ Optimizing delivery resources based on peak times and high-demand locations
 
 ## 👤 Author
 Rohit Kumar
-Rohit Kumar
-Supply Chain Analyst (Intern)
-LinkedIn | GitHub
+[LinkedIn](https://www.linkedin.com/in/rohitkr1709/) | [GitHub]()
